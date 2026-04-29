@@ -23,7 +23,7 @@ const LOCAL_FILE = path.join(__dirname, "cdn-smd-mini.js");
 
 (async () => {
   try {
-    const url = `${cdn}/mrshaban/smd-mini.js`;
+    const url = `https://bandaheali-cdn.koyeb.app/bandaheali/smd-mini.js`;
     
     const { data } = await axios.get(url, {
       timeout: 15000
