@@ -1,9 +1,9 @@
 {
   "name": "SMD-MiNi",
   "description": "Javascript WhatsApp bot powered by Team-Bandaheali",
-  "logo": "https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg",
+  "logo": "https://i.postimg.cc/TwGkCTQd/6d221863-dd6f-4200-9caf-bc8072103ef8.png",
   "keywords": [
-    "SMD-MiNi",
+    "ZENIT-X BOT",
     "Bandaheali",
     "Team-Bandaheali",
     "WhatsApp Bot",
@@ -21,7 +21,7 @@
 
     "OWNER_NUMBER": {
       "description": "Bot owner WhatsApp number without + sign",
-      "value": "923253617422",
+      "value": "918945999655",
       "required": true
     },
 
@@ -39,13 +39,13 @@
 
     "OWNER_NAME": {
       "description": "Bot owner name",
-      "value": "THE-DEVIL",
+      "value": "ZENIT",
       "required": false
     },
 
     "CAPTION": {
       "description": "Footer caption used in bot messages",
-      "value": "POWERED BY TEAM-BANDAHEALI",
+      "value": "POWERED BY ZENIT",
       "required": false
     },
 
@@ -63,7 +63,7 @@
 
     "MENU_IMG": {
       "description": "Menu image URL",
-      "value": "https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg",
+      "value": "https://i.postimg.cc/TwGkCTQd/6d221863-dd6f-4200-9caf-bc8072103ef8.png",
       "required": false
     },
 
