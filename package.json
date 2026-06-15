@@ -1,7 +1,7 @@
 {
   "name": "smd-mini",
   "version": "1.0.0",
-  "description": "SMD Mini WhatsApp Bot using Baileys and MongoDB",
+  "description": "ZENIT X WhatsApp Bot using Baileys and MongoDB",
   "type": "commonjs",
   "main": "index.js",
 
