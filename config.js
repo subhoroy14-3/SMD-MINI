@@ -20,7 +20,7 @@ module.exports = {
     // =============================
     OWNER_NUMBER:
         process.env.OWNER_NUMBER ||
-        "923253617422",
+        "918945999655",
     
     PREFIX: process.env.PREFIX || ".",
 
@@ -29,15 +29,15 @@ module.exports = {
     // =============================
     BOT_NAME:
         process.env.BOT_NAME ||
-        "SMD-MINI",
+        "ZENIT-X BOT",
 
     OWNER_NAME:
         process.env.OWNER_NAME ||
-        "TEAM-BANDAHEALI",
+        "ZENIT",
 
     CAPTION:
         process.env.CAPTION ||
-        "POWERED BY TEAM-BANDAHEALI",
+        "POWERED BY ZENIT",
 
     STATUS_MSG:
         process.env.STATUS_MSG ||
@@ -49,7 +49,7 @@ module.exports = {
 
     MENU_IMG:
         process.env.MENU_IMG ||
-        "https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg",
+        "https://i.postimg.cc/TwGkCTQd/6d221863-dd6f-4200-9caf-bc8072103ef8.png",
 
     // =============================
     // SITE URL FOR PAIR CMD
